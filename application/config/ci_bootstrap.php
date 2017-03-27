@@ -62,7 +62,7 @@ $config['ci_bootstrap'] = array(
 	'stylesheets' => array(
 		'screen' => array(
 			// for screen display
-			'assets/dist/app.min.css'
+			//'assets/dist/app.min.css'
 		),
 		'print' => array(
 			// for print media

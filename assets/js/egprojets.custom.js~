@@ -1,6 +1,5 @@
 /*============================================ Custom Functions  ============================================*/
-$.noConflict();
-(function ($, window, document, undefined) {
+;(function ($, window, document, undefined) {
 	'use strict';
 	var _doc = $(document),
 	_win = $(window),
