@@ -88,6 +88,7 @@ module.exports = {
 				// Bootstrap examples (http://getbootstrap.com/getting-started/#examples)
 				// Comment this to remove preset styles
 				dir_src + '/css/bootstrap-examples/sticky-footer-navbar.css',
+				
 
 				// Custom CSS file
 				dir_src + '/css/frontend.css'
